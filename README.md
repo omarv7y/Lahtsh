@@ -19,5 +19,14 @@ pkg install python3
 
 
 
+https://github.com/omarv7y/Lahtsh.git
+
+cd Lahtsh
+
+
+python3 Lahtsh.py
+
+
+
 #################
 ان عمر القرصان
